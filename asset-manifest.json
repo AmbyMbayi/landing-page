@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landing-page-chakra-ui/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/landing-page-chakra-ui/static/js/main.17caf2a3.chunk.js",
+    "main.js.map": "/landing-page-chakra-ui/static/js/main.17caf2a3.chunk.js.map",
+    "runtime-main.js": "/landing-page-chakra-ui/static/js/runtime-main.d8118047.js",
+    "runtime-main.js.map": "/landing-page-chakra-ui/static/js/runtime-main.d8118047.js.map",
+    "static/js/2.3de7013c.chunk.js": "/landing-page-chakra-ui/static/js/2.3de7013c.chunk.js",
+    "static/js/2.3de7013c.chunk.js.map": "/landing-page-chakra-ui/static/js/2.3de7013c.chunk.js.map",
+    "index.html": "/landing-page-chakra-ui/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/landing-page-chakra-ui/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3de7013c.chunk.js.LICENSE.txt": "/landing-page-chakra-ui/static/js/2.3de7013c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8118047.js",
+    "static/js/2.3de7013c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.17caf2a3.chunk.js"
+  ]
+}
