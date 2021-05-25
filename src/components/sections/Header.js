@@ -55,10 +55,10 @@ const Header = (props) => {
 					justify={[ 'center', 'space-between', 'flex-end', 'flex-end' ]}
 					direction={[ 'column', 'row', 'row', 'row' ]}
 					pt={[ 4, 4, 0, 0 ]}>
-					<MenuItems to="/">Home</MenuItems>
-					<MenuItems to="/how">How it works</MenuItems>
+					<MenuItems to="">Home</MenuItems>
+					<MenuItems to="how">How it works</MenuItems>
 					<MenuItems to="features">Features</MenuItems>
-					<MenuItems to="/signup" isLast>
+					<MenuItems to="signup" isLast>
 						<Button
 							size="sm"
 							rounded="md"
